@@ -19,4 +19,4 @@ Full stack web development by taking the University of Helsinki's [Full Stack Op
 [LinkedIn](https://www.linkedin.com/in/esahalmkrona/)
 or [via email](mailto:esa@halmkrona.fi?)
 
-[ehalmkro's github stats](https://github-readme-stats.vercel.app/api?username=ehalmkro)
+![ehalmkro's github stats](https://github-readme-stats.vercel.app/api?username=ehalmkro)
