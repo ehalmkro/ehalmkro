@@ -2,18 +2,19 @@
 
 ### Hi there 👋
 
-I'm Esa, an aspiring software developer with a M.A. in Education. I'm currently studying programming at [Hive Helsinki](http://www.hive.fi). I am a proud generalist with broad interests, my main one being combining **education** and **technology** to provide opportunities to everyone. On my free time I swim and make music.
+I'm Esa, an aspiring software developer with a M.A. in Education. I'm currently doing my internship and studying programming at [Hive Helsinki](http://www.hive.fi), a 42 school in Finland. I am a proud generalist with a broad scope of interests, my main one being combining **education** and **technology** to provide opportunities to everyone. On my free time I read, swim and make music.
 
 ### 🔭 I'm currently working on
-[Matcha](https://github.com/iljaSL/matcha), a full-stack one-page dating application. 
+[Hypertube](https://github.com/DianaMukaliyeva/hypertube), a full-stack torrent video streaming web-app.
 
 Stack: 
-- React/ Redux
-- nodeJS/ ExpressJS
-- MySQL
+- React / Redux
+- NodeJS / ExpressJS
+- PostgreSQL
 
 ### 🌱 I'm currently learning
-Full stack web development by taking the University of Helsinki's [Full Stack Open course](https://fullstackopen.com/en)
+- Full stack web development by taking the University of Helsinki's [Full Stack Open course](https://fullstackopen.com/en)
+- Python, Flask
 
 ### 📫 Contact me on
 [LinkedIn](https://www.linkedin.com/in/esahalmkrona/)
