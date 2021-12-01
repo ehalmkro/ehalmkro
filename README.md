@@ -6,8 +6,8 @@ I'm Esa, a software developer with a M.A. in Education. I'm currently working at
 
 ### Some stuff I worked on for school
 
-[Hypertube](https://github.com/DianaMukaliyeva/hypertube), a full-stack torrent video streaming web-app.
-[Matcha](https://github.com/iljaSL/matcha), a full-stack dating app.
+- [Hypertube](https://github.com/DianaMukaliyeva/hypertube), a full-stack torrent video streaming web-app.
+- [Matcha](https://github.com/iljaSL/matcha), a full-stack dating app.
 
 Stack: 
 - React / Redux
